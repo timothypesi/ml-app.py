@@ -1,17 +1,4 @@
-# mlapp
-
-# Watch the tutorial video
-
-[How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)](https://youtu.be/eT3JMZagMnE)
-
-<a href="https://youtu.be/eT3JMZagMnE"><img src="http://img.youtube.com/vi/eT3JMZagMnE/0.jpg" alt="How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)" title="How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)" width="400" /></a>
-
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/ml-app/main/ml-app.py)
-
+#
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
 
@@ -29,7 +16,7 @@ conda activate ml
 Download requirements.txt file
 
 ```
-wget https://raw.githubusercontent.com/dataprofessor/ml-auto-app/main/requirements.txt
+wget https://raw.githubusercontent.com/timothypesi/ml-auto-app/main/requirements.txt
 
 ```
 
